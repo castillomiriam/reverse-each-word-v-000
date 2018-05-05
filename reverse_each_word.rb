@@ -1,2 +1,2 @@
 def reverse_each_word(sentence1)
-= sentence1.split(" ")
+thing = sentence1.split(" ")
