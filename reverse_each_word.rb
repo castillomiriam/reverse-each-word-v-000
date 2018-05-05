@@ -3,6 +3,5 @@ array = sentence1.split
 array.collect do |word|
   word.reverse!
 end
-string = array.join(" ")
-string
+
 end
